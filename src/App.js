@@ -13,7 +13,7 @@ function App() {
         <Header title="Title" className="header-color" scroll>
             <Navigation>
                 <Link to="/resume">Resume</Link>
-                <Link to="/about">Aboout Me</Link>
+                <Link to="/about">About Me</Link>
                 <Link to="/projects">Projects</Link>
                 <Link to="/contact">Contact</Link>
             </Navigation>
@@ -21,7 +21,7 @@ function App() {
         <Drawer title="Title">
             <Navigation>
                 <Link to="/resume">Resume</Link>
-                <Link to="/about">Aboout Me</Link>
+                <Link to="/about">About Me</Link>
                 <Link to="/projects">Projects</Link>
                 <Link to="/contact">Contact</Link>
             </Navigation>
