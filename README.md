@@ -51,3 +51,7 @@ From Reat-Mdl, using a nav-bar that: {/* Uses a header that scrolls with the tex
   ..With the <Tabs>, each element within it is refered to in a manner similar to an array. The way we refer to each <Tab> within the <Tabs> is by {this.state.activeTab}. Like an array, the active Tab starts its count from 0, etc. (Rough draft statmement lol)
 
   ..We return a JSX depending on which state.activeTab is showing. For each JSX, we will display a card which we import from 'react-mdl'. (Each mdl feature/component is detailed in its documentation @ https://tleunen.github.io/react-mdl/components )
+
+
+  ################### Vid4 ######################
+  ..We are making the Contact page, Will be a grid with two cells. (Grid deprecated Tables)
